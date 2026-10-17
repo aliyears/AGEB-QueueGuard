@@ -1,0 +1,8 @@
+Sat Oct 17 13:51:18 UTC 2026
+s390x
+Linux ageb-datathon 6.8.0-147-generic #147-Ubuntu SMP Thu Sep 24 10:59:43 UTC 2026 s390x GNU/Linux
+Architecture:                            s390x
+Byte Order:                              Big Endian
+CPU(s):                                  3
+MemTotal:        8201236 kB
+Python 3.12.15
