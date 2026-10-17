@@ -1,0 +1,11 @@
+.venv/
+data/
+*.npy
+*.pkl
+*.joblib
+*.log
+nohup.out
+artifacts/score_*.npy
+__pycache__/
+*.pyc
+results/*.jsonl

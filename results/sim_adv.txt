@@ -1,0 +1,11 @@
+
+=== SIM mod=adv N=5000 ===
+Uctan uca (ms): ort=5.15 p50=4.98 p95=6.07 p99=8.48
+Sadece model (ms): ort=4.38 p50=4.32 p95=4.71 p99=5.34
+Islem/sn (HTTP dahil): 180
+Ikinci modele giden: %0.0
+  normal                 adet= 4782 icindeki hirsiz=56
+  ek_dogrulama_onerisi   adet=  160 icindeki hirsiz=35
+  incelemeye_yonlendir   adet=   58 icindeki hirsiz=40
+Toplam hirsiz (bu 5000 islemde): 131
+BITTI
